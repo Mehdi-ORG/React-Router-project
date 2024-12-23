@@ -1,0 +1,7 @@
+.btn-buy{
+  color: white;
+  text-decoration: none;
+}
+.btn-buy:hover{
+  color: black;
+}

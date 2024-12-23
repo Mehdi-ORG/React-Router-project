@@ -1,0 +1,13 @@
+.navbar-brand{
+  font-family: 'Lalezar';
+  font-size: 35px !important;
+}
+
+.offcanvas-title{
+  font-family: 'Lalezar';
+  font-size: 35px !important;
+}
+
+.active{
+  border-bottom: 2px solid black !important;
+}
