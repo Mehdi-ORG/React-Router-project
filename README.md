@@ -47,7 +47,7 @@ React.js · React Router · React Hooks · RegEx Validation · UI/UX Design · R
 https://github.com/Mehdi-ORG/React-Router-project.git
 
 ### 2. وارد پوشه پروژه شوید:
-cd REPO-NAME
+cd React-Router-project
 
 ### 3. پکیج‌های موردنیاز را نصب کنید:
 yarn install   # یا npm install
