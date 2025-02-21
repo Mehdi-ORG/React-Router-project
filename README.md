@@ -38,3 +38,19 @@
 
 ## مهارت‌ها:
 React.js · React Router · React Hooks · RegEx Validation · UI/UX Design · React State Management · Conditional Rendering · Clean Code Principles
+
+
+
+## چگونه نصب کنیم؟ (Installation)
+
+### 1. ابتدا ریپازیتوری را کلون کنید:
+https://github.com/Mehdi-ORG/React-Router-project.git
+
+### 2. وارد پوشه پروژه شوید:
+cd REPO-NAME
+
+### 3. پکیج‌های موردنیاز را نصب کنید:
+yarn install   # یا npm install
+
+### 4. پروژه را اجرا کنید:
+yarn start     # یا npm start
